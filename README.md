@@ -1,4 +1,4 @@
-# sample-lede-thing
+# sample-lede-thin
  
 This is a sample repository so that I can see how GitHub Desktop works.
 
